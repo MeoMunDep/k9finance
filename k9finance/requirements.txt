@@ -1,0 +1,6 @@
+eth-account
+python-dotenv
+colorama
+faker
+requests
+pyfiglet

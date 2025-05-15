@@ -10,7 +10,7 @@ if not exist proxies.txt echo proxies.txt created & type nul > proxies.txt
 if not exist newPrivateKeys.txt echo newPrivateKeys.txt created & type nul > newPrivateKeys.txt
 if not exist .env (
 	echo Copying configuration file
-	copy .env-example .env
+	copy .env.example .env
 ) else (
 	echo Skipping .env copying
 )

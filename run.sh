@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ------------------------------------------------------------------------------------
-# UNIX Shell Script to Initialize and Run the k9fnance referral Script
+# UNIX Shell Script to Initialize and Run the k9fnance referral Script by @MeoMunDep
 # ------------------------------------------------------------------------------------
 
 cd "$(dirname "$0")"

@@ -1,7 +1,7 @@
 @echo off
-REM ------------------------------------------------------------------------------------
-REM Windows Batch Script to Initialize and Run the k9finance referral Script
-REM ------------------------------------------------------------------------------------
+REM ----------------------------------------------------------------------------------------
+REM Windows Batch Script to Initialize and Run the k9finance referral Script by @MeoMunDep
+REM ----------------------------------------------------------------------------------------
 
 cd /d "%~dp0"
 
